@@ -1,0 +1,6 @@
+outputs/
+__pycache__/
+data/EpiGibson/train/
+data/EpiGibson/test/
+data/pattern/
+*.out

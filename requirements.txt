@@ -1,0 +1,15 @@
+--find-links https://download.pytorch.org/whl/torch_stable.html
+matplotlib==3.10.0
+numpy==1.26.3
+opencv-python==4.11.0.86
+pillow==11.1.0
+torch==1.12.1+cu116
+torchvision==0.13.1+cu116
+decord==0.6.0
+einops==0.8.1
+open_clip_torch==2.32.0
+scikit-learn==1.5.2
+nbformat==5.10.4
+kaleido==0.2.1
+cebra==0.4.0
+plotly==6.0.1
